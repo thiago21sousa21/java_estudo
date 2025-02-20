@@ -2,7 +2,7 @@ package com.loiane.cursojava.aula13;
 import java.util.Scanner;
 import java.util.Locale;
 
-public class Q4_Area_de_um_circulo {
+public class Q6_Area_de_um_circulo {
 	public static void main(String[] args) {
 		/*Faça um programa que peça o raio de um círculo calcule e mostra a sua área*/
 		Scanner scn = new Scanner(System.in);
